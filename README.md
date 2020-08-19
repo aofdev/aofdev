@@ -1,4 +1,5 @@
 ## Hi there, I'm Aofdev! <img src="https://media.giphy.com/media/ggRRQe8moeCp0hNb6z/giphy.gif" width="29px"> 
+![Profile views](https://gpvc.arturio.dev/aofdev)
 
 <br/>
 <a href="https://twitter.com/aof_dev">
@@ -41,4 +42,5 @@ I'm Visarut Phusua, a Full Stack Developer 🚀 from Thailand, who is passionate
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Aofdev's github stats](https://github-readme-stats.vercel.app/api?username=aofdev&show_icons=true&hide_border=true)
+![Aofdev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aofdev&layout=compact&hide=php&hide_border=true)
 
