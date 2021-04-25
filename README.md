@@ -19,8 +19,6 @@
 
 I'm Visarut Phusua, a Full Stack Developer 🚀 from Thailand, who is passionate about technologies beside's programming, I enjoy traveling and watching a movie.
   
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 <br/>
 
 **Talking about Personal Stuffs:**
