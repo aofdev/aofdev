@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-I'm Visarut Phusua, a Full Stack Developer from Thailand who is interested in a wide range of technologies. I enjoy making a project open source. Aside from programming, I enjoy traveling and watching movies.
+I'm Aof, a Full Stack Developer from Thailand who is interested in a wide range of technologies. I enjoy making a project open source.
 
 <br/>
 
