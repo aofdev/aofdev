@@ -145,6 +145,15 @@ A Full Stack Developer from Thailand.
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aofdev/vscode-cointy?style=flat-square"/></td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/aofdev/vscode-cointy?style=flat-square"/></td>
     </tr>
+	   <tr>
+      <td><a href="https://github.com/aofdev/fiber-versioning-boilerplate">A boilerplate for fiber versioning, Clean Architecture, API versioning, API documentation, Data versioning
+      </a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/aofdev/fiber-versioning-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/aofdev/fiber-versioning-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/aofdev/fiber-versioning-boilerplate?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aofdev/fiber-versioning-boilerplate?style=flat-square"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/aofdev/fiber-versioning-boilerplate?style=flat-square"/></td>
+    </tr>
 	  <tr>
       <td><a href="https://github.com/aofdev/yaml-peg">PEG parser for YAML written in Rust 🦀
       </a></td>
