@@ -26,6 +26,13 @@ A Full Stack Developer from Thailand.
 - 💬 Ask me about: [Here](https://github.com/aofdev/aofdev/issues)
 - 📫 How to reach me: aof.dev@gmail.com
 
+📝 My Latest Posts
+- [A boilerplate for fiber versioning](https://dev.to/aofdev/a-boilerplate-for-fiber-versioning-2ng9)
+- [A check for Cryptocurrency Prices on VS Code](https://dev.to/aofdev/a-check-for-cryptocurrency-prices-on-vs-code-5h16)
+- [มาลดความซับซ้อนของไฟล์ config กัน](https://aofdev.medium.com/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%94%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C-config-%E0%B8%81%E0%B8%B1%E0%B8%99-2d1aa5e1d562)
+- [Vue templates for Firebase Auth](https://dev.to/aofdev/vue-templates-for-firebase-auth--30n2)
+- [ประสบการณ์ฝึกงานที่ Thoth Zocial OBVOC สุดคูล!!!](https://aofdev.medium.com/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-thoth-zocial-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%84%E0%B8%B9%E0%B8%A5-248bf38692aa)
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
