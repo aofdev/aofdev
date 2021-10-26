@@ -24,7 +24,6 @@ A Full Stack Developer from Thailand.
 - 🪄 I enjoy making a project open source
 - 🎯 Life Hack: Explore 🔥 and Explode 💣 with knowledge
 - 💬 Ask me about: [Here](https://github.com/aofdev/aofdev/issues)
-- 📫 How to reach me: aof.dev@gmail.com
 
 📝 My Latest Posts
 - [A boilerplate for fiber versioning](https://dev.to/aofdev/a-boilerplate-for-fiber-versioning-2ng9)
