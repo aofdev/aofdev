@@ -2,9 +2,6 @@
 ![Profile views](https://gpvc.arturio.dev/aofdev)
 
 <br/>
-<a href="https://twitter.com/aof_dev">
-  <img align="left" alt="aofdev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://leetcode.com/aofdev/">
   <img align="left" alt="aofdev Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
