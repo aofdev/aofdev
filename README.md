@@ -5,14 +5,20 @@
 <a href="https://twitter.com/aof_dev">
   <img align="left" alt="aofdev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/visarut-phusua-175820158/">
-  <img align="left" alt="Visarut Phusua Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://leetcode.com/aofdev/">
   <img align="left" alt="aofdev Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://dev.to/aofdev/">
-  <img align="left" alt="aofdev dev" width="22px" src="https://img.icons8.com/windows/32/000000/dev.png" />
+  <img align="left" alt="aofdev dev" height="22" width="28" src="https://img.icons8.com/windows/32/000000/dev.png" />
+</a>
+<a href="https://www.linkedin.com/in/visarut-phusua-175820158/" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Visarut Phusua Linkdein"height="22" width="28" />
+</a>
+<a href="https://stackoverflow.com/users/6650162" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6650162" height="22" width="28" />
+</a>
+<a href="https://aofdev.medium.com" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aofdev" height="22" width="28" />
 </a>
 <br/>
 <br/>
