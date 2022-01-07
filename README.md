@@ -1,5 +1,4 @@
 ## Hi there, I'm Aofdev! <img src="https://media.giphy.com/media/ggRRQe8moeCp0hNb6z/giphy.gif" width="29px"> 
-![Profile views](https://gpvc.arturio.dev/aofdev)
 
 <br/>
 <a href="https://leetcode.com/aofdev/">
