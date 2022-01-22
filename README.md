@@ -100,24 +100,6 @@ A Full Stack Developer from Thailand.
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/aofdev/vue-pwa-vision?style=flat-square"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/aofdev/vuefire-auth">A Vue2 Auth + Email Verification with Firebase
-      </a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/aofdev/vuefire-auth?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/aofdev/vuefire-auth?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/aofdev/vuefire-auth?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aofdev/vuefire-auth?style=flat-square"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/aofdev/vuefire-auth?style=flat-square"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/aofdev/vuefire-realtimedatabase">A Vue2 realtime database CRUD with Firebase
-      </a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/aofdev/vuefire-realtimedatabase?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/aofdev/vuefire-realtimedatabase?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/aofdev/vuefire-realtimedatabase?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aofdev/vuefire-realtimedatabase?style=flat-square"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/aofdev/vuefire-realtimedatabase?style=flat-square"/></td>
-    </tr>
-	  <tr>
       <td><a href="https://github.com/aofdev/vue-input-streaming">A Vue2 Input Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
       </a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aofdev/vue-input-streaming?style=flat-square&labelColor=343b41"/></td>
@@ -125,15 +107,6 @@ A Full Stack Developer from Thailand.
       <td><img alt="Issues" src="https://img.shields.io/github/issues/aofdev/vue-input-streaming?style=flat-square"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aofdev/vue-input-streaming?style=flat-square"/></td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/aofdev/vue-input-streaming?style=flat-square"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/aofdev/vuefire-storage">A Vue2 Storage with Firebase
-      </a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/aofdev/vuefire-storage?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/aofdev/vuefire-storage?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/aofdev/vuefire-storage?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aofdev/vuefire-storage?style=flat-square"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/aofdev/vuefire-storage?style=flat-square"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/aofdev/autologin-facebook">Chrome auto login facebook with Puppeteer
@@ -197,15 +170,6 @@ A Full Stack Developer from Thailand.
       <td><img alt="Issues" src="https://img.shields.io/github/issues/aofdev/insert-jsonfile-to-mongodb?style=flat-square"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aofdev/insert-jsonfile-to-mongodb?style=flat-square"/></td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/aofdev/insert-jsonfile-to-mongodb?style=flat-square"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/aofdev/typeracer-puppeteer">Typeracer Bot Powerful By Puppeteer
-      </a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/aofdev/typeracer-puppeteer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/aofdev/typeracer-puppeteer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/aofdev/typeracer-puppeteer?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/aofdev/typeracer-puppeteer?style=flat-square"/></td>
-      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/aofdev/typeracer-puppeteer?style=flat-square"/></td>
     </tr>
   </tbody>
 </table>
