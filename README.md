@@ -28,6 +28,7 @@ A Full Stack Developer from Thailand.
 - 💬 Ask me about: [Here](https://github.com/aofdev/aofdev/issues)
 
 📝 My Latest Posts
+- [Avantis Backend Tech Stack](https://insight.avantis.finance/avantis-backend-tech-stack-c2295b6c5b8d)
 - [A boilerplate for fiber versioning](https://dev.to/aofdev/a-boilerplate-for-fiber-versioning-2ng9)
 - [A check for Cryptocurrency Prices on VS Code](https://dev.to/aofdev/a-check-for-cryptocurrency-prices-on-vs-code-5h16)
 - [มาลดความซับซ้อนของไฟล์ config กัน](https://aofdev.medium.com/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%94%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C-config-%E0%B8%81%E0%B8%B1%E0%B8%99-2d1aa5e1d562)
